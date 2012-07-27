@@ -1,151 +1,97 @@
 contact:
-    name: Harper Reed
-    email: 'harper@nata2.org'
-    page: '[harperreed.org](https://harperreed.org)'
-    github: '[github.com/harperreed](https://github.com/harperreed)'
-    linkedin: '[linkedin.com/in/harperreed](http://www.linkedin.com/in/harperreed)'
-    twitter: '[@harper](http://twitter.com/harper)'
+    name: Ian Ferguson
+    email: 'ianfergus@gmail.com'
+    github: '[github.com/ianfergus](https://github.com/ianfergus)'
+    linkedin: '[linkedin.com/in/fergusonij](http://www.linkedin.com/in/fergusonij)'
 
 work:
 
     - employer: Obama for America 
-      title: Chief Technology Officer
+      title: Northeast National Regional Data Director
       location: 'Chicago, IL'
-      dates: April 2011 - Present
+      dates: February 2012 - Present
       note: Obama for America is the relection campaign for President Barack Obama.
 
-    - employer: Rackspace Hosting
-      title: Customer in Residence
-      location: 'San Antonio, TX'
-      dates: October 2009 - April 2010
-      note: Rackspace is an IT hosting company with a focus on cloud.
+    - employer: Catalist
+      title: Software Engineer
+      location: 'Washington, DC'
+      dates: November 2010 - February 2012
+      note: Catalist is a provider of data and services to progressive organizations
       description:
-        - 'Worked with professional services department to help clients find the right solution. '
-        - 'Worked with executive staff to help define better customer experience'
-        - 'Represented Rackspace at conferences and small events.'
-
-    - employer: skinnyCorp, LLC
-      title: Chief Technology Officer
-      location: 'Chicago, IL'
-      dates: August 2005 - October 2009
-      note: skinnyCorp is the parent company of the Threadless.com.
-      description:
-        - 'Acted as technology leader for a company of ~60 people with revenue of ~20-30M'
-        - 'Worked in a close team to design, execute and manage community websites'
-        - 'Lead the technology to support Threadless.com growth.'
-        - 'Grew Threadless.com from 2 barely functioning servers to over 45 devices.'
-        - 'Helped bridge the gap between the internet and reality with 2 retail stores.'
-        - 'Spoke about our technology at various events and conference, representing skinnyCorp and the Threadless vision.'
-        - 'Managed a small team of engineers to handle the day to day maintenance and projects.'
-
-    - employer: Squidoo
-      title: Summer Intern
-      location: 
-      dates: June 2005 - August 2005
-      note: Squidoo is a community website that allows users to create pages for subjects of interest.
-      description:
-        - 'Worked with Seth Godin and an amazing team to help build an design the initial version of Squidoo.'
-        - 'Helped define initial vision and technology for Squidoo before core staff was hired'
-
-    - employer: Cramer and Krasselt
-      title: Web Programmer
-      location: 'Chicago, IL'
-      dates: October 2004 - July 2005
-      note: Cramer And Krasselt is an industry leading medium sized advertising agency.
-      description:
-        - 'Lead technologist and technical liaison to account management and creative staff.'
-        - 'Lead architect for client web applications. Worked with clients Airtran.com, Careerbuilder.com, and Barton Beers. (PHP, MYSQL, LINUX)'
-        - 'Lead engineer on full life cycle of Super Bowl viral campaign, Yeknominc.com. (PHP, MYSQL, LINUX)'
-        - 'Managed legacy operations for client web application management. (Perl, Navitaire SkyLights, JAVA)'
-
-    - employer: World Book Publishing
-      title: Security and Software Engineer
-      location: 'Chicago, IL'
-      dates: June 2001 - October 2004
-      note: World Book Publishing is a leading publisher of encyclopedias and children's learning material.
-      description:
-        - 'Lead development staff and managed offshore engineering team. Worked to develop and maintain World Book Publishing''s client facing web presence. Helped usher in new technology and standards - moving from AIX, DB2 on IBM hardware to Solaris, Oracle on Sun Hardware. Introduced open source technology and solution. (Solaris, JAVA, DB2, AIX, XML)'
-        - 'Wrote desktop content management utilities to aid in management of XML content by non-technical staff. (C#, PHP)'
-        - 'Developed practices to insure content accessibility and data portability. (JAVA, XML, XSLT, C#, DB2)'
-        - 'Helped develop a solid software security plan. Worked with system engineers to architect a secure production environment. Deployed production servers using open source software to meet budget constraints. (LINUX, NMAP, NESSUS, SOLARIS, AIX)'
-
+    	- 'Designed system for flexibly integrating data from multiple changing sources into production databases.'
+		- 'Architected business critical data backend and processing service to achieve gains in speed, capacity and redundancy over similar legacy system.'
+		- 'Implemented report generation framework for dynamically analyzing data sets.'
+		- 'Optimized and parallelized extract, transform and load processes to increase data processing speed.'
+		- 'Maintained and improved custom Java, Shell and SQL scripts and software used for data ETL process.'
+		- 'Created, analyzed and maintained databases with over 500 million records.'
+        
+    - employer: Catalist
+	title: Data Acquisition Specialist
+	location: 'Washington, DC'
+	dates: August 2010 – November 2010
+	description:
+		- 'Processed and normalized data from multiple sources using Talend Data Integration Suite.'
+		- 'Resolved data quality issues using Microsoft Excel, SQL Queries, and various Unix programs.'
+		- 'Partnered with state officials and third-party vendors to ensure delivery of required data.'
+		- 'Generated, analyzed and presented reports to improve data quality control processes.'
+		
+	- employer: 'Guilford College Information Technology'
+	title: 'Information Technology Infrastructure Technician'
+	location: 'Greensboro, NC'
+	dates: 'January 2009 – July 2010'
+	description:
+		- 'Configured and deployed computer systems across the college campus.'
+		- 'Researched and implemented updates to campus networking equipment.'
+		- 'Documented implementations and solutions of network and systems problems.'
+		- 'Implemented remote configuration, management and notification solution for network uninterruptible power supplies.'
+		
+	- employer: 'Obama for America'
+	title: 'Field Organizer'
+	location: 'Tappahannock, VA'
+	dates: June 2008 – November 2008
+	description:
+		- 'Led grassroots voter contact organization in five counties to elect Barack Obama for President.'
+		- 'Analyzed data to allow for most efficient use of volunteers and resources in key precincts.'
+		- 'Organized a broad volunteer base in a traditionally Republican area of rural Virginia.'
+		- 'Executed field plan to meet voter contact and volunteer goals laid out by the State Field Director.'
+		- 'Coordinated organizational meetings with over two hundred volunteers to develop effective local outreach plans.'
+		
+	- employer: 'Guilford College Information Technology'
+	title: 'Information Technology Help Desk Technician'
+	location: 'Greensboro, NC'
+	dates: 'September 2007 – May 2008'
+	description:
+		- 'Documented technical and computer issues using electronic ticketing system.'
+		- 'Resolved technical issues in equipment and user software across a variety of technologies.'
+		- 'Instructed users how to use computer equipment and software.'
+		- 'Standardized storage procedures for media and computer equipment.'
+        
 skills:
     - name: 'Application Development'
       skills:
-        - Python
-        - PHP
-        - Ruby
-        - 'C#'
+        Java:
+            - 'Maven 2 & 3'
+            - 'MyBatis'
+            - 'Tomcat & Jetty'
+            - 'Guice & Spring'
+            - 'DBCP, BoneCP & C3P0 Connection Pools'
+            - 'JDBC'
+        Bash
+        SQL
     - name: 'Platforms'
       skills:
-        - 'Unix (Linux, Solaris, AIX)'
-        - OSX
+        - 'Linux (Primarily CentOS & Ubuntu)'
+        - 'OS X'
     - name: 'Databases'
       skills:
-        - MySQL
-        - NoSQL
-        - LotsOfSQL
-    - name: 'System Software'
-      skills:
-        - Apache 
-        - Lighttpd
-        - Tornado
-        - Varnish
-        - nginx
-        - PHP
-        - Python
-        - Memcached
-        - Ejabberd
-        - Qmail
-        - Postfix
-        - Courier-IMAPd
-        - Endeca
-
-    - name: 'Cloud Infrastructure'
-      skills:
-        - 'Rackspace Cloud'
-        - Slicehost
-        - 'AWS (S3, ec2, EBS, SimpleDB)'
-        - Zerigo DNS
-        - Google App Engine
-    - name: Security
-      skills:
-        - PGP
-        - Nessus
-        - NMap
-        - ACiD/Snort
-        - Portsentry
-        - IPF
-        - Linux Firewalling
-        - General Linux security
-    - name: 'Markup Languages'
-      skills:
-        - HTML
-        - XHTML
-        - CSS
-        - XML
-        - XSLT
-        - Markdown
+        - 'PostgreSQL (Administration, Tuning, Configuration, Application Development)'
+        - 'Vertica (Application Development, Data Warehouse Tuning & Loading)'
+        - 'MySQL (Application Development)'
+        - 'Oracle (Application Development)'
 
 education:
-    - degree: 'Bachelor of Arts, Computer Science and Philosophy' 
-      name: Cornell College
-      location: 'Mt Vernon, Iowa'
-      dates: 2001
-
-awards:
-  -
-    name: "PRIX ARS ELECTRONICA"
-    location: "Linz, Austria"
-    awards:
-      -
-        name: "Net Vision Honorary Mention"
-        date: "2002"
-  -
-    name: "MCIC"
-    location: "Chicago, IL"
-    awards:
-      -
-        name: " Data Innovation Award for the hacking the Chicago Transit Authority Bus API"
-        date: "2010"
+    - degree: 'Bachelor of Science, Computing Information & Technology' 
+      name: Guilford College
+      location: 'Greensboro, NC'
+      dates: 2010
 
