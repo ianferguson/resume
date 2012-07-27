@@ -20,5 +20,5 @@ A couple of notes:
 * [David Hu's résumé in YAML](https://github.com/divad12/resume) - python generation scripts
 
 #### Obviously
-This is the résumé of Harper Reed. If you use any of this - please remove my identity from your resume.yaml.
+This is not the résumé of Harper Reed, but despite that, If you use any of this - please remove my identity from your resume.yaml.
 
