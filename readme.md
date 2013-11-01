@@ -1,4 +1,4 @@
-#Harper's Resume
+#Ian's Resume
 
 I authored my résumé in HTML around 2002. It wasn't out of date, but I wasn't satisfied with how the data was stored. I needed something that allowed me to generate multiple versions without effort. I also wanted to be able to curate my résumé the same way that I curate the rest of my data. 
 
