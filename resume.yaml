@@ -1,5 +1,5 @@
 contact:
-    name: Ian Ferguson
+    name: 'Ian Ferguson'
     email: 'ian@tremblingfire.com'
     github: '[github.com/ianferguson](https://github.com/ianferguson)'
     linkedin: '[linkedin.com/in/fergusonij](http://www.linkedin.com/in/fergusonij)'
@@ -9,7 +9,6 @@ work:
       title: 'Senior Software Engineer'
       location: 'Arlington, VA'
       dates: 'September 2013 - Present'
-      description: 
 
     - employer: 'Catalist'
       title: 'Software Engineer & Team Lead'
@@ -49,10 +48,10 @@ work:
         - 'Maintained and improved custom Java, Shell and SQL scripts and software used for data ETL process.'
         - 'Created, analyzed and maintained databases with over 500 million records.'
         
-    - employer: Catalist
-      title: Data Acquisition Specialist
+    - employer: 'Catalist'
+      title: 'Data Acquisition Specialist'
       location: 'Washington, DC'
-      dates: August 2010 – November 2010
+      dates: 'August 2010 – November 2010'
       description:
         - 'Processed and normalized data from multiple sources using Talend Data Integration Suite.'
         - 'Resolved data quality issues using Microsoft Excel, SQL Queries, and various Unix programs.'
