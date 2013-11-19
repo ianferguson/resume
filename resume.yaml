@@ -28,7 +28,6 @@ work:
       title: 'National Regional Data Director for the Mid Atlantic, Great Lakes & Northeast'
       location: 'Chicago, IL'
       dates: 'February 2012 - November 2012'
-      note: 'Obama for America is the relection campaign for President Barack Obama.'
       description:
         - 'Developed reports and presentations to inform leadership decisions and resource allocations.'
         - 'Supported data and analytics programs and staff in five battleground and thirteen border states.'
@@ -39,7 +38,6 @@ work:
       title: 'Software Engineer'
       location: 'Washington, DC'
       dates: 'November 2010 - February 2012'
-      note: 'Catalist is a provider of data and services to progressive organizations'
       description:
         - 'Designed system for flexibly integrating data from multiple changing sources into production databases.'
         - 'Architected business critical data backend and processing service to achieve gains in speed, capacity and redundancy over similar legacy system.'
@@ -51,7 +49,7 @@ work:
     - employer: 'Catalist'
       title: 'Data Acquisition Specialist'
       location: 'Washington, DC'
-      dates: 'August 2010 – November 2010'
+      dates: 'August 2010 - November 2010'
       description:
         - 'Processed and normalized data from multiple sources using Talend Data Integration Suite.'
         - 'Resolved data quality issues using Microsoft Excel, SQL Queries, and various Unix programs.'
@@ -61,7 +59,7 @@ work:
     - employer: 'Guilford College Information Technology'
       title: 'Information Technology Infrastructure Technician'
       location: 'Greensboro, NC'
-      dates: 'January 2009 – July 2010'
+      dates: 'January 2009 - July 2010'
       description:
         - 'Configured and deployed computer systems across the college campus.'
         - 'Researched and implemented updates to campus networking equipment.'
@@ -71,7 +69,7 @@ work:
     - employer: 'Obama for America'
       title: 'Field Organizer'
       location: 'Tappahannock, VA'
-      dates: 'June 2008 – November 2008'
+      dates: 'June 2008 - November 2008'
       description:
         - 'Led grassroots voter contact organization in five counties to elect Barack Obama for President.'
         - 'Analyzed data to allow for most efficient use of volunteers and resources in key precincts.'
@@ -82,7 +80,7 @@ work:
     - employer: 'Guilford College Information Technology'
       title: 'Information Technology Help Desk Technician'
       location: 'Greensboro, NC'
-      dates: 'September 2007 – May 2008'
+      dates: 'September 2007 - May 2008'
       description:
         - 'Documented technical and computer issues using electronic ticketing system.'
         - 'Resolved technical issues in equipment and user software across a variety of technologies.'

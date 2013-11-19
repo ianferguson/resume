@@ -5,15 +5,15 @@
 <title><%= contact["name"] %> : Resume</title>
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
 
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
 <style type="text/css" media="screen">
 body{
     font-size: 10pt;
     color: #000000;
-    font-family: helvetica;
+    font-family: 'Roboto', sans-serif;
     margin: 3px;
     line-height: 150%;
 }
-
 
 a
 {
@@ -79,11 +79,12 @@ a:hover
 </div> 
 
 <div class="section">
-  <div class="sectionHeader"><strong>EXPERIENCE:</strong></div>
+  <div class="sectionHeader"><strong>EXPERIENCE</strong></div>
   <% work.each do |job| %>
     <div class="sectionContent">
-      <i><%= job["title"] %></i> <strong><%= job["employer"] %></strong> <%= job["location"] %> <%= job["dates"] %> <br />
-        <%= job["note"] %> 
+      <strong><%= job["title"] %></strong> <br/> 
+	<%= job["employer"] %>: <%= job["dates"] %> in <%= job["location"] %> <br/>
+        <%#= job["note"] %> 
       <% unless job["description"].nil? %>
         <ul>
           <% job["description"].each do |item| %>
@@ -96,7 +97,7 @@ a:hover
 </div>
 
 <div class="section">
-  <div class="sectionHeader"><strong>SKILLS:</strong></div>
+  <div class="sectionHeader"><strong>SKILLS</strong></div>
   <% skills.each do |skill| %>
     <div class="sectionContent"><strong><%= skill['name'] %>:</strong>
       <% skill['skills'].each do |s| %>
@@ -107,11 +108,11 @@ a:hover
 </div>
 
 <div class="section">
-  <div class="sectionHeader"><strong>EDUCATION:</strong></div>
+  <div class="sectionHeader"><strong>EDUCATION</strong></div>
     <% education.each do |institution| %>
       <div class="sectionContent"><%= institution["degree"] %>. <br />
       <%= institution["name"] %>, <%= institution["location"] %><br />
-      <%= institution["dates"] %> <br />
+      <%#= institution["dates"] %> <br />
       </div> 
     <% end %>
 </div>
