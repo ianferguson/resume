@@ -102,7 +102,6 @@ skills:
             - 'Jersey'
             - 'Jackson'
             - 'Guava, JodaTime, slf4j, other common libraries'
-        Bash
     - name: 'Platforms'
       skills:
         - 'Linux (Primarily CentOS & Ubuntu)'
