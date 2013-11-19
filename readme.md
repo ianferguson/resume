@@ -1,4 +1,4 @@
-#Ian's Resume (forked from harperreed)
+#ian's Resume (forked from harperreed)
 
 ##Harper's explanation and docs:
 
