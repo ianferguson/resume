@@ -1,14 +1,16 @@
 contact:
-    name: 'Ian Ferguson'
-    email: 'ian@tremblingfire.com'
+    name: Ian Ferguson
     github: '[github.com/ianferguson](https://github.com/ianferguson)'
     linkedin: '[linkedin.com/in/fergusonij](http://www.linkedin.com/in/fergusonij)'
+    page: '[tremblingfire.com](https://www.tremblingfire.com)'
 
 work:
     - employer: 'OnDeck'
       title: 'Senior Software Engineer'
       location: 'Arlington, VA'
       dates: 'September 2013 - Present'
+      description:
+        - 'Coding things'
 
     - employer: 'Catalist'
       title: 'Software Engineer & Team Lead'
