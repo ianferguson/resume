@@ -46,7 +46,7 @@ a:hover
     font-size: 13pt;
     text-align: left;
     border-bottom: 1px solid #666;
-     color: #666;
+    color: #FF6600;
 }
 
 .headerTitle{
@@ -70,6 +70,7 @@ a:hover
 <div class="section">
   <div class="headerTitle"><%= contact["name"] %></div>
   <div class="headerBlock">
+    <%= contact["address"] %><br/>
     <a href="mailto:<%= contact["email"] %>"><%= contact["email"] %></a> <br />
     <%= contact["page"] %>  <br />
     <% unless contact["phone"].nil? %>
