@@ -2,20 +2,32 @@ contact:
     name: Ian Ferguson
     github: '[github.com/ianferguson](https://github.com/ianferguson)'
     linkedin: '[linkedin.com/in/fergusonij](http://www.linkedin.com/in/fergusonij)'
-    page: '[tremblingfire.com](https://www.tremblingfire.com)'
+    page: '[labmarie.com](https://www.labmarie.com)'
 
 work:
+    - employer: 'Lab Marie'
+      title: 'Founder/Freelance Software Engineer'
+      location: 'Washington, DC'
+      dates: 'Sepetember 2014 - Present'
+      description:
+        - 'Worked with clients to deliver both new software development and operational support'
+        - 'Reviewed work submitted to projects by subcontractors'
+        - 'Maintained continous integration server utilized by other contractors on projects'
+        - 'Delivered products to meet client deadlines and requirements'
+        - 'Provided time and cost estimates to interested prospective clients'
+
     - employer: 'OnDeck'
       title: 'Senior Software Engineer'
       location: 'Arlington, VA'
-      dates: 'September 2013 - Present'
+      dates: 'September 2013 - September 2014'
       description:
         - 'Implemented internal API platform and client using Java, Jersey, Jackson, and Guice'
         - 'Gathered requirements from stakeholders for a new product aiming to replace internal Salesforce usage'
+        - 'Mentored junior members of the team through both formal code reviews and informal conversation/ad-hoc feedback'
         - 'Coordinated with DevOps team to acquire necessary technology and credentials to promote new platform to a production environment'
         - 'Utilized Jenkins continuous integration system to ensure code and test quality was maintained on every commit'
         - 'Created fully automated deployment scripts for multinode application environment'
-        - 'Maintained greater than 98% unit test coverage on authored project'
+        - 'Maintained greater than 98% unit test coverage on project'
 
     - employer: 'Catalist'
       title: 'Software Engineer & Team Lead'
