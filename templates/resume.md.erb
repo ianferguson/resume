@@ -1,19 +1,19 @@
-#<%= contact["name"] %> : Resume
+# <%= contact["name"] %>
 
-##CONTACT:
+## CONTACT
 
 [<%= contact["email"] %>](mailto:<%= contact["email"] %>)  
 <%= contact["page"] %>   
-<%= contact["twitter"] %>  
 <%= contact["github"] %>  
 <%= contact["linkedin"] %>  
 
 
-##EXPERIENCE:
+## EXPERIENCE
 <% work.each do |job| %>
-_<%= job["title"] %>_ **<%= job["employer"] %>** <%= job["location"] %> <%= job["dates"] %>  
+  **<%= job["title"] %>**  
+  <%= job["employer"] %>, <%= job["location"] %>   
+  _<%= job["dates"] %>_
 <%= job["note"] %>   
-
 <% unless job["description"].nil? %>
 <% job["description"].each do |item| %>
 * <%= item %>
@@ -22,16 +22,16 @@ _<%= job["title"] %>_ **<%= job["employer"] %>** <%= job["location"] %> <%= job[
 
 <% end %>
 
-##SKILLS:
+## SKILLS
 <% skills.each do |skill| %>
 * **<%= skill['name'] %>**: <% skill['skills'].each do |s| %><%= s %>, <% end %>
 
 <% end %>
 
-##EDUCATION:
+## EDUCATION
 <% education.each do |institution| %>
 <%= institution["degree"] %>.  
-<%= institution["name"] %>, <%= institution["location"] %> <%= institution["dates"] %>
+<%= institution["name"] %>, <%= institution["location"] %>
 
 <% end %>
 
