@@ -109,6 +109,12 @@ work:
         - 'Standardized storage procedures for media and computer equipment.'
         
 skills:
+    - name: 'Lanaguages'
+      skills: 
+        - 'Java (Expert)'
+        - 'Go (Some)'
+        - 'HTML/CSS (Some)'
+        - 'JavaScript (Some)'
     - name: 'Java Application Development'
       skills:
         - 'Guice'
@@ -130,15 +136,20 @@ skills:
     - name: 'Platforms'
       skills:
         - 'Linux (CentOS & Ubuntu)'
+        - 'Amazon Web Services'
         - 'OS X'
     - name: 'Databases'
       skills:
-        - 'PostgreSQL' 
+        - 'PostgreSQL'
+        - 'Redshift'
         - 'Vertica'
         - 'MySQL'
         - 'Oracle'
     - name: 'Development Tools'
       skills:
+        - 'Jenkins'
+        - 'Travis CI'
+        - 'Wercker'
         - 'git'
         - 'Eclipse'
         - 'vim'

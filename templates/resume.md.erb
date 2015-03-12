@@ -1,12 +1,3 @@
-# <%= contact["name"] %>
-
-## CONTACT
-
-[<%= contact["email"] %>](mailto:<%= contact["email"] %>)  
-<%= contact["page"] %>   
-<%= contact["github"] %>  
-<%= contact["linkedin"] %>  
-
 
 ## EXPERIENCE
 <% work.each do |job| %>
@@ -25,13 +16,18 @@
 ## SKILLS
 <% skills.each do |skill| %>
 * **<%= skill['name'] %>**: <% skill['skills'].each do |s| %><%= s %>, <% end %>
-
 <% end %>
 
 ## EDUCATION
 <% education.each do |institution| %>
 <%= institution["degree"] %>.  
 <%= institution["name"] %>, <%= institution["location"] %>
-
 <% end %>
+
+## CONTACT
+
+[<%= contact["email"] %>](mailto:<%= contact["email"] %>)  
+<%= contact["linkedin"] %>  
+<%= contact["github"] %>  
+<%= contact["page"] %>   
 
